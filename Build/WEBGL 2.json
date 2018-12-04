@@ -1,0 +1,13 @@
+{
+"companyName": "SandPile",
+"productName": "Vampyre",
+"dataUrl": "WEBGL 2.data.unityweb",
+"asmCodeUrl": "WEBGL 2.asm.code.unityweb",
+"asmMemoryUrl": "WEBGL 2.asm.memory.unityweb",
+"asmFrameworkUrl": "WEBGL 2.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
